@@ -8,3 +8,5 @@ This was just a quick vibe coded project I randomly thought of so I made it and 
 (It uses many API requests & tokens so make sure to use a cheap or free model and be prepared for many API requests)
 
 It has some issues such as a missing web search tool and it will stop if you get ratelimited or an API error occurs. This was just a quick project idea I wanted to test so it probably wont be fixed.
+
+Demo video: [https://youtu.be/EsTRwjcvQfk](https://youtu.be/EsTRwjcvQfk)
