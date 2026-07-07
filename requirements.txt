@@ -1,0 +1,6 @@
+requests
+keyboard
+pywinauto
+
+# Optional (if you use virtualenv or specific Python versions):
+# pywin32
